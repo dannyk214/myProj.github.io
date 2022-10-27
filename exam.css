@@ -1,20 +1,21 @@
 body{
     height: 100vh;
     text-align: center;
-   
+   overflow: hidden;
 }
 .main-container{
-    width: 600vw;
+    width: 800vw;
     display: flex;
     justify-content: center;
     align-items: center;
+  
    
 }
 
 .slide-container{
-    width: 2000px;
+    width: 2100px;
    height: 100vh;
-   border: 2px solid black;
+ 
    }
 h1{
     text-decoration: dotted;
