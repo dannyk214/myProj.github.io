@@ -21,3 +21,15 @@ h1{
     text-decoration: dotted;
     
 }
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+    .main-container{
+        width: 720vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+  }
