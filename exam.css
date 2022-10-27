@@ -4,7 +4,7 @@ body{
    overflow: hidden;
 }
 .main-container{
-    width: 800vw;
+    width: 703vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,23 +13,11 @@ body{
 }
 
 .slide-container{
-    width: 2100px;
+    width: 700vw;
    height: 100vh;
- 
+border: 10px solid;
    }
 h1{
     text-decoration: dotted;
     
 }
-@media screen and (min-width: 480px) {
-    body {
-      background-color: lightgreen;
-    }
-    .main-container{
-        width: 720vw;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    
-  }
