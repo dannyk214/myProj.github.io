@@ -4,7 +4,7 @@ body{
    overflow: hidden;
 }
 .main-container{
-    width: 703vw;
+    width: 500vw;
     display: flex;
     justify-content: center;
     align-items: center;
